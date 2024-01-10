@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: "强锅 的 Running Page",
+  siteTitle: "强锅的骑跑世界",
   siteUrl: 'https://adongtt.github.io/ckc/',
   logo: 'https://www.custombaseballgloves.com/static/images/ckc.jpg',
   description: 'Personal site and blog',
