@@ -19,7 +19,7 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: ''https://adongtt.github.io/ckc/',
+      url: 'https://adongtt.github.io/ckc/',
     },
     {
       name: 'About',
